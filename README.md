@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # UD2 A4. TABLAS
 Lee el apartado "12: Tablas" donde se hace uso de las etiquetas para formar tablas en HTML.
 [Entrega tu horario](./Horario/index.html). Asegúrate de que usas las etiquetas vistas en clase y de que combinas las dos horas seguidas en una única celda, así como la fila del recreo. 
@@ -12,3 +13,6 @@ Lee el apartado "12: Tablas" donde se hace uso de las etiquetas para formar tabl
 
 [AULACLICK - Unidad 6. Tablas (V)](https://www.aulaclic.es/html/t_6_5.html)
     
+=======
+# prueba
+>>>>>>> 2f20364803c42b46dc14e4dde66630f383719672
